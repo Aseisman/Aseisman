@@ -9,9 +9,8 @@
   <img src="https://streak-stats.demolab.com/?user=Aseisman&card_width=766&hide_border=true&theme=transparent" />
   <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=tokyonight&hide_border=true"/>  
 </p>
-
 <p align="center" >
-<img src="https://i.imgur.com/0PuBxQ1.gif"/>
+  <img src="https://i.imgur.com/0PuBxQ1.gif" height=210/>
 </p>
   <!--
 ![](https://github-readme-stats.vercel.app/api?username=Aseisman&show_icons=true&theme=transparent)
