@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseisman&layout=compact&langs_count=6&hide=css,html&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Aseisman&show_icons=true&theme=transparent&hide_border=true&line_height=20" />
   <img src="https://streak-stats.demolab.com/?user=Aseisman&card_width=766&hide_border=true&theme=transparent" />
-  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=tokyonight&hide_border=true"/>  
+  <img src="https://stats.justsong.cn/api/leetcode?username=aseisman&cn=true&theme=tokyonight&hide_border=true"/>  
 </p>
 <p align="center" >
   <img src="https://i.imgur.com/0PuBxQ1.gif" height=210/>
