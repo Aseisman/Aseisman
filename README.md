@@ -15,7 +15,7 @@
   <!--
 ![](https://github-readme-stats.vercel.app/api?username=Aseisman&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aseisman&layout=donut&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseisman&layout=donut&langs_count=3)
 -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/wakatime?username=Aseisman) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aseisman&repo=project-demo)](https://github.com/Aseisman/project-demo) -->
 
